@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: europa, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+}
+.img{
+    border-radius: 50%;
+}
+.nfont{
+    font-family: europa, sans-serif;
+    font-weight:lighter;
+    font-style: normal;
+
+}

@@ -1,0 +1,30 @@
+.avatarContainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+
+}
+.work{
+    width: 35rem;
+    
+    border-radius: 3rem;
+    margin-top: 1rem;
+   
+}
+.workContainer{
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    border-radius: 1rem;
+    padding: 3rem;
+
+}
+.img{
+    width: 25rem;
+    height:auto ;
+    border-radius: 1rem;
+    margin-top: 1rem;
+}
+
+
