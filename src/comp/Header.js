@@ -11,7 +11,7 @@ const Header = () => {
     
       </div>
       <div className={styles.actions}>
-        <Link className={styles.sayHelloButton} href="https://drive.google.com/file/d/1xyLMKu4Jy1jzYss1Ak1LsXbkMSDg9kgL/view?usp=drive_link">
+        <Link className={styles.sayHelloButton} href="https://drive.google.com/file/d/1x9uSR9AAzYPv6-_IwRebhcySb-UYQqZo/view?usp=sharing">
           See My Resume
         </Link>
       </div>
