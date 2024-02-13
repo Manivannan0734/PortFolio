@@ -1,4 +1,4 @@
-
+import head from 'next'
 import { Inter } from 'next/font/google'
 
 const inter = Inter({ subsets: ['latin'] })
@@ -11,6 +11,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+    <head> <script src="https://cdn-in.pagesense.io/js/jqvcqnar/dcb7f14240f24813ba02636f194a80c6.js"></script> </head>
       <body className={inter.className}>{children}</body>
     </html>
   )
