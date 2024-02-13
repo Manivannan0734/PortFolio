@@ -13,7 +13,7 @@ export default function Home() {
     
     <div>
       <Head>
-        <script src="https://cdn-in.pagesense.io/js/jqvcqnar/dcb7f14240f24813ba02636f194a80c6.js"></script>
+        
         <script
           async
           src={`https://www.googletagmanager.com/gtag/js?id=G-MW9LN2RB39`}
